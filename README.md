@@ -7,7 +7,11 @@
 <img align="left" width="48%" margin-bottom="16px" src="https://github-readme-stats.vercel.app/api?username=Geo-630&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&show_icons=true">
 <img align="left" width="48%" margin-bottom="16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-630&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </div>
-<br>
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+
+
+
 
 ## 🖥️ What I know a bit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
