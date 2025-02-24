@@ -3,7 +3,7 @@
 
 # 📊 GitHub Stats:
 <img align="left" width="48%" margin-bottom="16px" src="https://github-readme-stats.vercel.app/api?username=Geo-630&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&show_icons=true">
-<img align="left" width="47%" margin-bottom="16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-630&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<img align="left" width="48%" margin-bottom="16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-630&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 <br>
 
