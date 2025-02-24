@@ -2,7 +2,7 @@
   I am currently a student of computer science and have a systems development technician degree, I may not be good but will do my best.
 
 # 📊 GitHub Stats:
-<img align="left" width="48%" margin-bottom="16px" src="https://github-readme-stats.vercel.app/api?username=Geo-630&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&show_icons=true">
+<img align="left" width="50%" margin-bottom="16px" src="https://github-readme-stats.vercel.app/api?username=Geo-630&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&show_icons=true">
 <img align="left" width="48%" margin-bottom="16px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geo-630&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 <br>
